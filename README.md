@@ -13,11 +13,8 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4: 
 End the program
-
 ## Program:
 ```
-
-
 Program to find the rank of a matrix.
 Developed by: SUDHARSAN RAM M
 Register Number: 212222110048
@@ -26,6 +23,7 @@ A= np.array([[1,2,3],[3,6,9]])
 rank=np.linalg.matrix_rank(A)
 print(rank)
 ```
+
 ## Output:
 
 ![image](https://github.com/Sudharsanram/RANK-OF-A-MATRIX/assets/119393980/31fe3d97-4023-4e8a-ae9d-1e62809faa36)
