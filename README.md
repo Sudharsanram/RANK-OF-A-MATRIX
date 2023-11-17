@@ -20,8 +20,8 @@ Program to find the rank of a matrix.
 Developed by: SUDHARSAN RAM M
 Register Number: 212222110048
 import numpy as np
-A= np.array([[1,2,3], [3,6,9]])
-rank np.linalg.matrix rank (A)
+A= np.array([[1,2,3],[3,6,9]])
+rank=np.linalg.matrix_rank(A)
 print(rank)
 ```
 ## Output:
